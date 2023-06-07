@@ -56,6 +56,9 @@ https://code.earthengine.google.com
 
 https://www.fundacionbyb.org/basurales
 
+Detección de basurales a cielo abierto:
+https://github.com/dymaxionlabs/basurales
+
 
 Seminarios en youtube sobre los beneficios y casos de uso de detección de microbasurales:
 
